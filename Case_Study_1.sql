@@ -12,7 +12,7 @@ primary key(id)
 );
 
 
-# Write a query to display all the records in the table tutorial.oscar_nominees
+# Write a query to display all the records in the table oscar_nominees
 SELECT * FROM oscar_nominees;
 
 # Write a query to find the distinct values in the ‘year’ column
