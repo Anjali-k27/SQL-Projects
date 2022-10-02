@@ -15,3 +15,5 @@ The .csv dataset will be imported in current database i.e., 'casestudies'
 Run 'Select * from table_name' to view your imported dataset.
 
 Once all above steps are performed successfully, jump right into deriving insights from your data. 
+
+
